@@ -17,7 +17,7 @@ For now, bye.
 
 I am trying to polish up / develop my skills in R so will be trying to take part in #TidyTuesday as much as possible.  Links to code and outputs are below:
 
-7th April 2020 -  Tour de France:  [Repo][1] [Plot][2]
+7th April 2020 -  Tour de France:  [Repo][1] | [Plot][2]
 
 [1]: https://github.com/jonnywhitedatascience/TidyTuesday/tree/master/2020-04-07%20Tour%20De%20France
 [2]: https://github.com/jonnywhitedatascience/TidyTuesday/blob/master/2020-04-07%20Tour%20De%20France/edition%20winner%20by%20nationality%20and%20year.png?raw=true
